@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Big Go Button</string>
+    <string name="button_init">Click me!</string>
+    <string name="button_num_clicked">You have pushed me %d times!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
